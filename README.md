@@ -81,6 +81,6 @@ rule-based-chatbot/
 
 ## Author
 
-**Your Name**
+Sarah Moazzam
 AI Intern at DecodeLabs
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](www.linkedin.com/in/sarah-moazzam-04a953406) · [GitHub](https://github.com/Sarahcodes22)
